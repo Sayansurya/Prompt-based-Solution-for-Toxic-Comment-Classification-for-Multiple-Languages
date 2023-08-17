@@ -1,0 +1,4 @@
+*cls**sent_0*_Is_It*mask*?*sep+*	{"0": "Wow", "1": "Awful"}
+*cls**sent_0*.*mask*_and_non-toxic.*sep+*	{"0": "Likely", "1": "Stupid"}
+*cls**sent_0*.*mask*_to_humans_and_animals.*sep+*	{"0": "Curious", "1": "no"}
+*cls**sent_0*.*mask*_to_the_environment.*sep+*	{"0":"Trust", "1": "But"}

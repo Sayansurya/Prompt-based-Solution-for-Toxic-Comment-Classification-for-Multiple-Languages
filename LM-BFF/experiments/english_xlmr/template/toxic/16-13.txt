@@ -1,0 +1,4 @@
+*cls**sent_0*_Is_It*mask*?*sep+*
+*cls**sent_0*_Is_It*mask*_or_Not?*sep+*
+*cls*.*mask*.*+sent_0**sep+*
+*cls*.*mask*!*+sent_0**sep+*

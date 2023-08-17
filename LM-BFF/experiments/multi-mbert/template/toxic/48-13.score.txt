@@ -1,0 +1,4 @@
+0.66316 *cls**sent_0*.*mask*_to_the_environment.*sep+*
+0.64211 *cls**sent_0*_Is_It*mask*?*sep+*
+0.64211 *cls**sent_0*.*mask*_to_humans_and_animals.*sep+*
+0.51579 *cls**sent_0*.*mask*_and_non-toxic.*sep+*

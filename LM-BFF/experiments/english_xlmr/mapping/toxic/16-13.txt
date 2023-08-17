@@ -1,0 +1,8 @@
+*cls**sent_0*_Is_It*mask*?*sep+*	{"0": "Found", "1": "Magic"}
+*cls**sent_0*_Is_It*mask*?*sep+*	{"0": "Found", "1": "That"}
+*cls**sent_0*_Is_It*mask*_or_Not?*sep+*	{"0": "Found", "1": "Love"}
+*cls**sent_0*_Is_It*mask*_or_Not?*sep+*	{"0": "Likely", "1": "Stupid"}
+*cls*.*mask*.*+sent_0**sep+*	{"0": "O", "1": "Anon"}
+*cls*.*mask*.*+sent_0**sep+*	{"0": "Indeed", "1": "Really"}
+*cls*.*mask*!*+sent_0**sep+*	{"0": "Woo", "1": "Hell"}
+*cls*.*mask*!*+sent_0**sep+*	{"0": "Woo", "1": "Fuck"}

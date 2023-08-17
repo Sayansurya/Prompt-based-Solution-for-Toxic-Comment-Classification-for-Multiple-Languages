@@ -1,0 +1,4 @@
+0.50526 *cls**sent_0*.*mask*.*sep+*
+0.50526 *cls**sent_0*:*mask*.*sep+*
+0.50526 *cls*.*mask*.*+sent_0**sep+*
+0.50526 *cls*.*mask*?*+sent_0**sep+*

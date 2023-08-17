@@ -1,0 +1,4 @@
+*cls**sent_0*.*mask*.*sep+*
+*cls**sent_0*:*mask*.*sep+*
+*cls*.*mask*.*+sent_0**sep+*
+*cls*.*mask*?*+sent_0**sep+*

@@ -1,0 +1,16 @@
+*cls**sent_0*.*mask*.*sep+*
+*cls**sent_0*_for*mask*.*sep+*
+*cls**sent_0*_of*mask*.*sep+*
+*cls**sent_0*.*mask*!*sep+*
+*cls**sent_0*.*mask*?*sep+*
+*cls**sent_0*.*mask*_is_not_allowed.*sep+*
+*cls**sent_0*.*mask*_is_not_tolerated.*sep+*
+*cls**sent_0*.*mask*_is_not_acceptable.*sep+*
+*cls*.*mask*.*+sent_0**sep+*
+*cls*_What_is*mask*?*+sent_0**sep+*
+*cls*.*mask*?*+sent_0**sep+*
+*cls*.*mask*:*+sent_0**sep+*
+*cls*_1.*mask*.*+sent_0**sep+*
+*cls*)*mask*.*+sent_0**sep+*
+*cls*.*mask*,*+sent_0**sep+*
+*cls*,*mask*.*+sent_0**sep+*

@@ -1,0 +1,8 @@
+*cls**sent_0*.*mask*.*sep+*
+*cls**sent_0*:*mask*.*sep+*
+*cls**sent_0*.*mask*!*sep+*
+*cls**sent_0*,*mask*.*sep+*
+*cls*.*mask*.*+sent_0**sep+*
+*cls*_The*mask*.*+sent_0**sep+*
+*cls*_A*mask*.*+sent_0**sep+*
+*cls*_No*mask*.*+sent_0**sep+*

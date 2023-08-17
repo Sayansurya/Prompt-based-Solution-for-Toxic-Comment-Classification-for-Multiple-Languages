@@ -1,0 +1,8 @@
+0.64583 *cls*_The*mask*.*+sent_0**sep+*
+0.63542 *cls*.*mask*.*+sent_0**sep+*
+0.61458 *cls*_A*mask*.*+sent_0**sep+*
+0.60417 *cls**sent_0*,*mask*.*sep+*
+0.59375 *cls**sent_0*:*mask*.*sep+*
+0.59375 *cls*_No*mask*.*+sent_0**sep+*
+0.54167 *cls**sent_0*.*mask*.*sep+*
+0.53125 *cls**sent_0*.*mask*!*sep+*
